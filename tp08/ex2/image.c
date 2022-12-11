@@ -3,7 +3,6 @@
 #include <math.h>
 #include "image.h"
 #include "matrice.h"
-#include "matrice.c"
 
 struct sImage
 {
